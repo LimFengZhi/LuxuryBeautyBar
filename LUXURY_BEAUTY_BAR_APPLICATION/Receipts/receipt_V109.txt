@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: V109
+Date: 25/7/2024
+
+Customer: daniel05
+Expert: Vernice
+Service: Makeup
+Treatment
+--------------------------------------------------
+                             Sub Total:     500.00
+                              Tax (5%):      25.00
+                                 TOTAL:     525.00
+
+Payment Method: Online Banking
+
+Booking Details:
+Week 4, Thu
+Time: 8-10
+
+Thanks for your business.
+--------------------------------------------------

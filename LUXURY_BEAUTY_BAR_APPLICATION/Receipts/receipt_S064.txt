@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: S064
+Date: 15/7/2024
+
+Customer: my1238
+Expert: Steve
+Service: Makeup
+Consultation
+--------------------------------------------------
+                             Sub Total:     200.00
+                              Tax (5%):      10.00
+                                 TOTAL:     210.00
+
+Payment Method: E-WALLET
+
+Booking Details:
+Week 3, Mon
+Time: 14-15
+
+Thanks for your business.
+--------------------------------------------------

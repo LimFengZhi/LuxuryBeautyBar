@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: V015
+Date: 3/7/2024
+
+Customer: John#123
+Expert: Vernice
+Service: Lazer Hair Removal
+Consultation
+--------------------------------------------------
+                             Sub Total:     300.00
+                              Tax (5%):      15.00
+                                 TOTAL:     315.00
+
+Payment Method: Online Banking
+
+Booking Details:
+Week 1, Wed
+Time: 12-13
+
+Thanks for your business.
+--------------------------------------------------

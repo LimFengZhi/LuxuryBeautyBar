@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: P060
+Date: 12/7/2024
+
+Customer: Adam99
+Expert: Paul
+Service: Makeup
+Consultation
+--------------------------------------------------
+                             Sub Total:     200.00
+                              Tax (5%):      10.00
+                                 TOTAL:     210.00
+
+Payment Method: Online Banking
+
+Booking Details:
+Week 2, Fri
+Time: 18-19
+
+Thanks for your business.
+--------------------------------------------------

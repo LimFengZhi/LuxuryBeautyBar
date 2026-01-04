@@ -1,0 +1,13 @@
+nch123,Ab123455678,ChiaoHan,0123413323,ch12@gmail.com
+minyao,Ab12345678,Hing Min Yao,0129329394,minyao98@gmail.com
+daniel05,Ab12345678,Daniel Wong,01313234923,daniel123@gmail.com
+my1238,Ab12345678,TohMinYang,01732324232,minyang12@gmail.com
+kuan12,Ab12345678,LIMKUAN,01222192231,limkuan23@gmail.com
+boonxiu,Ab12345678,Soh Boon XIu,019233211,bx@gmail.com
+Yujie99,Ab12345678,Goh Yu Jie,0121454354,gyujie@gmail.com
+samuel05,Ab12345678,Chew Chun Hong,0132343953,samuel09@gmail.com
+Adam99,Ab123456789,Adam Ho Swee,01393994332,adam22@gmail.com
+Mrloh22,Ab12345678,Loh Kian Ming,0124859323223,lohkm@hotmail.com
+alston1,Ab12345678,Aston,0132982922,aston123@gmail.com
+zhenhern,Ab12345678,Tham Zhen Hern,0129383932334,zhtham@gmail.com
+John#123,Ab12345678,John Selva,0113043948,johnselva@gmail.com

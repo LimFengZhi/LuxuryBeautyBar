@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: S012
+Date: 2/7/2024
+
+Customer: Adam99
+Expert: Steve
+Service: Lazer Hair Removal
+Consultation
+--------------------------------------------------
+                             Sub Total:     300.00
+                              Tax (5%):      15.00
+                                 TOTAL:     315.00
+
+Payment Method: Credit Card
+
+Booking Details:
+Week 1, Tue
+Time: 18-19
+
+Thanks for your business.
+--------------------------------------------------

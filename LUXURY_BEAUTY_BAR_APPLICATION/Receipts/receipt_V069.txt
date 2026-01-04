@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: V069
+Date: 16/7/2024
+
+Customer: daniel05
+Expert: Vernice
+Service: Body Waxing
+Treatment
+--------------------------------------------------
+                             Sub Total:     300.00
+                              Tax (5%):      15.00
+                                 TOTAL:     315.00
+
+Payment Method: Online Banking
+
+Booking Details:
+Week 3, Tue
+Time: 12-14
+
+Thanks for your business.
+--------------------------------------------------

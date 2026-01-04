@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: V021
+Date: 4/7/2024
+
+Customer: daniel05
+Expert: Vernice
+Service: Makeup
+Consultation
+--------------------------------------------------
+                             Sub Total:     200.00
+                              Tax (5%):      10.00
+                                 TOTAL:     210.00
+
+Payment Method: E-WALLET
+
+Booking Details:
+Week 1, Thu
+Time: 12-13
+
+Thanks for your business.
+--------------------------------------------------

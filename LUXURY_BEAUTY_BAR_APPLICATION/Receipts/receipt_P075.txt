@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: P075
+Date: 17/7/2024
+
+Customer: minyao
+Expert: Paul
+Service: Makeup
+Treatment
+--------------------------------------------------
+                             Sub Total:     500.00
+                              Tax (5%):      25.00
+                                 TOTAL:     525.00
+
+Payment Method: E-WALLET
+
+Booking Details:
+Week 3, Wed
+Time: 12-14
+
+Thanks for your business.
+--------------------------------------------------

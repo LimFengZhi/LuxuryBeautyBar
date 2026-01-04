@@ -1,0 +1,24 @@
+--------------------------------------------------
+                  LUXURY BEAUTY BAR
+                    Booking Receipt
+--------------------------------------------------
+Receipt#: S037
+Date: 9/7/2024
+
+Customer: daniel05
+Expert: Steve
+Service: Body Waxing
+Treatment
+--------------------------------------------------
+                             Sub Total:     300.00
+                              Tax (5%):      15.00
+                                 TOTAL:     315.00
+
+Payment Method: Credit Card
+
+Booking Details:
+Week 2, Tue
+Time: 8-10
+
+Thanks for your business.
+--------------------------------------------------
